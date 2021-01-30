@@ -8,6 +8,17 @@
 
 ## Основные библиотеки
 
+* numpy
+* pandas
+* matplotlib.pyplot
+* sklearn (scikit-learn)
+* statsmodel
+* ntlk
+* pymystem3
+* pymorphy2
+* re
+* seaborn
+* collections
 
 ## План по домашним работам
 
