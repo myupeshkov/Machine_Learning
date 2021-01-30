@@ -23,3 +23,5 @@
 * pymystem3
 * pymorphy2
 * re
+* seaborn
+* collections
